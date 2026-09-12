@@ -1,34 +1,42 @@
-# AUREX Academy - Week 1 Internship
+# AUREX Academy - Week 2 Internship
 
 **Name:** Mehak Mustafa 
 **Domain:** Full-Stack Web Development 
-**Week:** Week 1
+**Week:** Week 2
 
-### Task Description
-Built a basic HTML Personal Profile/Developer Introduction webpage with required sections and deployed it on GitHub.
+## Live Deployment Link
+https://mehakmustfa1-arch.github.io/Aurex-2---week-internship/
 
-### Technologies Used
-- HTML5
-- Git
-- GitHub
-- GitHub Pages
+## CSS Features and Layout Techniques Implemented
+- Flexbox for layout
+- CSS Grid
+- Media Queries for Responsive Design - Desktop, Tablet, Mobile
+- Box Model: margin, padding, border
+- Typography and Color Scheme
 
 ### How to run the project locally
 1. Clone or download the repository
 2. Open `index.html` in Google Chrome or Microsoft Edge
 
-### List of Completed Requirements
-- [x] GitHub Profile & Repository Setup
-- [x] Personal Profile Webpage with all required sections
-- [x] Used Semantic HTML tags
-- [x] README.md documentation
-- [x] 2 Screenshots for submission
+## Key Learnings and Challenges
+**Learnings:**
+1. Learned to use Flexbox and CSS Grid for layouts
+2. Learned to make website responsive using Media Queries
+3. Learned GitHub Pages deployment
 
+**Challenges:**
+1. Making website responsive for Mobile
+2. But I solved them by practicing!
 ### Key Learnings
+- ### Key Learnings
 - Understood Git commands: init, add, commit, push
 - Learned semantic HTML structure and hierarchy
 - Learned to deploy static site using GitHub Pages
-
+## Submission Checklist
+- [x] GitHub Repository Link
+- [x] Live Deployment Link 
+- [x] 3 Screenshots: Desktop, Tablet, Mobile
+- [x] Responsive Design Completed
 ### Blockers/Difficulties
 No blockers faced. Completed all tasks within time.
 ### Screenshots for Submission
